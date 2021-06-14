@@ -8,13 +8,5 @@ body {
 	font-size: 16px;
 	font-family: Helvetica, sans-serif;
 	color: ##4B4848;
-	background-image: url(https://github.com/MarlouP/marloup.github.io/blob/c3a60e006bdc3aa83b0bd541e0c6bb2e349ff097/concrete_seamless.png);
-}
-
-ul li {
-	display: inline-block;
-}
-
-li {
-	list-style-type: none;
+	background-image: url("https://imgur.com/k6kpDx1");
 }
