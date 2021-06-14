@@ -4,6 +4,12 @@ h1 {
 	color: #fe4c78;
 }
 
+h2 {
+	font-size: 24px;
+	text-align: left;
+	color: #4B4848;
+}
+
 body {
 	font-size: 16px;
 	font-family: Helvetica, sans-serif;
